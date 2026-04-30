@@ -1,4 +1,5 @@
 ---
+name: plan-reviewer
 description: Reviews technical plans before implementation and verifies completion against acceptance criteria, test quality, and user experience.
 mode: subagent
 color: accent

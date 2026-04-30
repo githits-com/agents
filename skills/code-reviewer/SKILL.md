@@ -1,4 +1,5 @@
 ---
+name: code-reviewer
 description: Reviews code changes and technical plans for bugs, regressions, performance, security, maintainability, and architectural soundness. Use for final code verification or technical assessment of plans.
 mode: subagent
 reasoningEffort: medium

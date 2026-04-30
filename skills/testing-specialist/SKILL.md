@@ -1,4 +1,5 @@
 ---
+name: testing-specialist
 description: Helps create high-quality tests, fix flaky tests, and apply project testing conventions. Use when writing new tests, debugging intermittent failures, or validating isolation and mocking patterns.
 mode: subagent
 color: warning
